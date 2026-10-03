@@ -1,0 +1,20 @@
+# Workspace R
+*.RData
+.Rhistory
+
+# Arsip duplikat hasil konversi
+Bibilo/iloveimg-converted.zip
+
+# Dokumen tidak terkait proyek SLR
+Saya adalah seorang dosen bidang ilmu pendidikan.docx
+
+# PNG kosong (0 byte) hasil ekspor Biblioshiny yang gagal
+Bibilo/Co_occurrenceNetwork-2026-09-27190100.825085.png
+Bibilo/Co_occurrenceNetwork-2026-09-27190109.615268.png
+Bibilo/Collaboration_Network-2026-09-27190231.182835.png
+Bibilo/Collaboration_Network-2026-09-27190236.542552.png
+New folder/Collaboration_Network-2026-09-27185728.011477.png
+New folder/Collaboration_Network-2026-09-27185738.685865.png
+
+# PDF artikel penerbit (hak cipta) — tidak diunggah ke repo publik
+Paper/
